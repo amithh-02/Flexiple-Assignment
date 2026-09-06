@@ -7,7 +7,14 @@ shortlist → recruiter feedback (per-profile Yes/No or free-text chat) → refi
 
 - Python 3.11+
 - Node.js 18+
-- An OpenAI API key 
+- An OpenAI API key
+
+## Setting Up
+
+```
+git clone https://github.com/amithh-02/Flexiple-Assignment.git
+
+```
 
 ## 1. Backend setup
 
